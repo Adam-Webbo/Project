@@ -1,2 +1,2 @@
 # Project
-Modeling Statistics behind what contributes to a good player/ winning a game in league of legends 
+Investigating the different parameters that contribute to winning games and creating a predictive model that would be able to predict outcomes before a game starts and after certain intervals. Additionally, comparing values that would determine what makes an induvial player good allowing the calculation of who would be the best player at the tournament based on these statistics. This would be done primarily in R and using R shiny to create adjustable displays that would show the different outcomes based on theorical inputs.
